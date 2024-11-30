@@ -1,5 +1,4 @@
 # Cash_Register_project
-**Translation**:
 
 We intend to develop a device for a store that sells three types of products. Our device will have four inputs and a seven-segment display. It will take the dollar exchange rate and the price of each product as inputs, store this information internally, and allow the seller to update it as needed. Additionally, the device has another section used during sales. In this section, the seller will sequentially input the quantities of the first, second, and third products being sold. Finally, the total price in Tomans will be displayed on a seven-segment display.
 
